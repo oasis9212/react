@@ -1,0 +1,23 @@
+{
+  "name": "package-example1",
+  "version": "1.0.0",
+  "description": "리엑트 선수 배운다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oasis9212/react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oasis9212/react/issues"
+  },
+  "homepage": "https://github.com/oasis9212/react#readme",
+  "dependencies": {
+    "randomcolor": "^0.6.2"
+  }
+}
